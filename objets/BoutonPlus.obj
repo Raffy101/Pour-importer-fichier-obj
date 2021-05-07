@@ -1,6 +1,6 @@
 # Object Export From Tinkercad Server 2015
 
-mtllib obj.mtl
+mtllib BoutonPlus-tex.mtl
 
 o obj_0
 v -8 		-18 		10
